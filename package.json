@@ -1,7 +1,7 @@
 {
   "name": "ajv",
   "version": "6.11.0",
-  "description": "Another JSON Schema Validator",
+  "description": "Another JSON Schema Validator: forked at bennieswart/ajv:custom",
   "main": "lib/ajv.js",
   "typings": "lib/ajv.d.ts",
   "files": [
